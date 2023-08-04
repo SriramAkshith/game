@@ -47,6 +47,14 @@ body {
   background-color: yellow;
 }
 
+.orange{
+    background-color:orange;
+}
+
+.lightblue{
+    background-color:lightblue;
+}
+
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
